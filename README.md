@@ -1,2 +1,2 @@
-# testing my first GitHub
+# testing my first GitHub Repo
 Hello!
