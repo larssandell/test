@@ -1,1 +1,2 @@
-# test
+# testing my first GitHub
+Hello!
